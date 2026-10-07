@@ -33,5 +33,6 @@ if user_input == "Write":
         Tasks.append(task)
 
 if user_input == "List":
+    #Need to add a completed funct.
     print_list(Tasks)
 
